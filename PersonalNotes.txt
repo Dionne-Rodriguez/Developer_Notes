@@ -1,0 +1,2 @@
+1.) Install VScode through homebrew
+2.) install git duet
